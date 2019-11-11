@@ -7,20 +7,28 @@ h1, p {
 }
 
 a {
+  font-family: Helvetica, sans-serif;
   text-decoration: none;
   color: blue;
+  margin: 10px;
 }
 
 .question-container {
   border-left: 6px solid grey;
-  margin: auto;
-  padding: 5px;
-  background: yellow;
+  margin: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: white;
+  width: 600px;
 }
 
 .answer-container {
   border-left: 6px solid grey;
-  margin: auto;
-  padding: 5px;
-  background: yellow;
+  margin: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #fffba6;
+  width: 600px;
 }
